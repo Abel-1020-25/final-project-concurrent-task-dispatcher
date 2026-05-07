@@ -1,6 +1,5 @@
 # final-project-concurrent-task-dispatcher
 
-# final-project-concurrent-task-dispatcher
 # Concurrent Task Dispatcher in Rust
 
 ## Project Summary
